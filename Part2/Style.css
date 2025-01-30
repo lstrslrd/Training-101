@@ -1,0 +1,17 @@
+/* This is for the first page */
+
+.headings{
+    color: purple;
+    font-size: 30px;
+    text-align: center;
+}
+
+.orderedList{
+    color: yellowgreen;
+    font-size: 50px;
+}
+
+#strawberries{
+    color: red;
+    font-size: 60px;
+}

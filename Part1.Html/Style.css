@@ -1,0 +1,16 @@
+/* h1 {
+    color: violet;
+} */
+ 
+/* used for class(groups) use . to call for the class */
+.headings{
+    color: blueviolet;
+    font-size: 20px;
+}
+
+/* used for id(specific)
+used # to call the id */
+#headings{
+    color: red;
+    font-size: 50px;
+}
