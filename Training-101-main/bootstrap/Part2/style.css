@@ -1,0 +1,13 @@
+.hover-shrink {
+    transition: transform 0.3s ease-in-out; /* Smooth transition */
+  }
+  
+  .hover-shrink:hover {
+    transform: scale(0.8); /* Shrinks to 80% of its original size */
+  }
+  
+  .hover-shrink:hover {
+    transform: scale(0.8);
+    transition: transform 0.3s cubic-bezier(0.25, 1.5, 0.5, 1); /* Adds a bounce effect */
+  }
+   
