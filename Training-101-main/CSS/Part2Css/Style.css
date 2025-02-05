@@ -1,0 +1,123 @@
+#div-3{
+    background-color: skyblue;
+    border: 2px solid black;
+    height: 200px;
+    width: 200px;
+    display: inline;
+    font-size: 2rem;
+    /* 1rem=16px */
+}
+#div-4{
+    background-color: aquamarine;
+    border: 2px solid black;
+    height: 200px;
+    width: 200px;
+    display: inline;
+    font-size: 2rem;
+}
+#span-3{
+    background-color: gray;
+    border: 2px solid black;
+    display: block;
+    height: 200px;
+    width: 200px;
+    font-size: 2rem;
+}
+#span-4{
+    background-color: brown;
+    border: 2px solid black;
+    display: block;
+    height: 200px;
+    width: 200px;
+    font-size: 2rem;
+}
+#span-5{
+    background-color: yellow;
+    border: 2px solid black;
+    display: inline-block;
+    height: 200px;
+    width: 200px;
+    font-size: 2rem;   
+}
+#span-6{
+    background-color: orange;
+    border: 2px solid black;
+    display: inline-block;
+    height: 200px;
+    width: 200px;
+    font-size: 2rem;
+}
+#div-5{
+    background-color: lightcyan;
+    border: 2px solid black;
+    font-size: 2rem;
+}
+#div-6{
+    background-color: red;
+    border: 2px solid black;
+    font-size: 2rem;
+}
+#span-7{
+    display: none;
+}
+.box1{
+    border: 2px solid black;
+    margin: 5px;
+    width: 50%;
+    background-color: green;
+}
+.box2{
+    border: 2px solid black;
+    margin: 5px;
+    width: 100px;
+    background-color: cyan;
+
+}
+.box3{
+    width: 50vw;
+    background-color: lightblue;
+    border: 2px solid black;
+    margin: 5px;
+}
+.box4{
+    height: 25vh;
+    background-color: green;
+    border: 2px solid black;
+    margin: 5px;
+}
+.parent{
+    width: 135px;
+    border: 2px solid black;
+    font-size: 2rem;
+}
+.one-rem{
+    font-size: 1rem;
+}
+.one-em{
+    font-size: 1em;
+}
+.two-rem{
+    font-size: 2rem;
+}
+.two-em{
+    font-size: 2em;
+}
+.background{
+    min-height: 20rem;
+    background-color: gray;
+    background-image: url(https://images-ext-1.discordapp.net/external/LAZ-368YL019c35CJoiL-S4LZcDxpZUxAyxNqvPof2s/https/c4.wallpaperflare.com/wallpaper/43/1003/707/anime-your-name-kimi-no-na-wa-mitsuha-miyamizu-wallpaper-preview.jpg?format=webp&width=720&height=495);
+    background-repeat: no-repeat;
+    background-size: 100%;
+    background-position: center bottom;
+    background-attachment: scroll;
+}
+.container-bg{
+    min-height: 100vh;
+}
+.bg-title{
+    color: white;
+    text-align: center;
+    font-size: 5em;
+    margin: 0;
+    line-height: 50rem;
+}
